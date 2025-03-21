@@ -1,97 +1,70 @@
 AiFFEL_Quest Research
 ```
-AiFFEL_Quest_rs
+AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── Ex02
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── Ex03
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── Ex04
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── Ex05
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── Ex06
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   └── Ex07
-|   |   ├── .ipynb   
 │       └── README.md
+│       └── .ipynb
 ├── GoingDeeper
 │   ├── GD01
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── GD02
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── GD03
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── GD04
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── GD05
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── GD06
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── GD07
-|   |   ├── .ipynb   
 │   │   └── README.md
+│   │   └── .ipynb
 │   ├── GD08
-|   |   ├── .ipynb   
 │   │   └── README.md
-│   ├── GD09
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   ├── GD10
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   ├── GD11
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   ├── GD12
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   ├── GD13
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   ├── GD14
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   ├── GD15
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   ├── GD16
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   ├── GD17
-|   |   ├── .ipynb   
-│   │   └── README.md
-│   └── GD18
-|   |   ├── .ipynb   
+│   │   └── .ipynb
+│   └── GD09
 │       └── README.md
+│       └── .ipynb
 └── MainQuest
     ├── Quest01
-    |   ├── .ipynb   
-    │   └── README.md
-    ├── Quest02
-    |   ├── .ipynb 
-    │   └── README.md
-    ├── Quest03
-    |   ├── .ipynb 
-    │   └── README.md
-    ├── Quest04
-    |   ├── .ipynb 
-    │   └── README.md
-    └── Quest05
-        ├── .ipynb 
-        └── README.md
+        │   └── README.md
+        │   └── .ipynb
+        ├── Quest02
+        │   └── README.md
+        │   └── .ipynb
+        ├── Quest03
+        │   └── README.md
+        │   └── .ipynb
+        ├── Quest04
+        │   └── README.md
+        │   └── .ipynb
+        └── Quest05
+            └── README.md
+            └── .ipynb
 ```
